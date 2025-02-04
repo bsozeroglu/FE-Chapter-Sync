@@ -40,7 +40,7 @@
 - Versiyon yayınlama sürecimizi nasıl daha verimli hale getirebiliriz?
 - Hotfix süreçlerimiz yeterli mi? Daha iyi nasıl yönetebiliriz?
 
-## 4. Sentry Performance Monitoring ve Hata Takibi
+## 4. Performance Monitoring ve Hata Takibi
 
 ### Konu Başlıkları:
 - Mobil uygulamadaki performans metrikleri
@@ -58,5 +58,5 @@
 - Sprint Riskleri ve Takımlar Arası Etkileşim (10 dk)
 - Teknik Paylaşımlar ve Süreç İyileştirmeleri (10 dk)
 - Release ve Deployment Süreci (10 dk)
-- Sentry Performance Monitoring ve Hata Takibi (15 dk)
+- Performance Monitoring ve Hata Takibi (10 dk)
 - Aksiyon Planı (5 dk) – Alınan aksiyonları belirleme ve sorumluluk paylaşımı
